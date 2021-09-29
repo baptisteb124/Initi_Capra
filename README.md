@@ -1,7 +1,7 @@
 ## README
 
 README est un manuel d'instruction pour bien faire fonctionner le projet
-
+Mis à jour le 29 septembre 2021
 ## Compiler
 
 Utiliser la ligne de code ci dessous afin de compiler en premier
